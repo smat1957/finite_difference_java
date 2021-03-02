@@ -1,2 +1,1 @@
-#!/bin/sh
-python3 ./menualt.py
+menu1.sh
